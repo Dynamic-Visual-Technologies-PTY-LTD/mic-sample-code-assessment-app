@@ -1,3 +1,5 @@
+![Build](https://github.com/Dynamic-Visual-Technologies-PTY-LTD/mic-sample-code-assessment-app/actions/workflows/dotnet.yml/badge.svg)
+
 # Basic Calculator - File Operations Validation Tool
 
 ## Overview
